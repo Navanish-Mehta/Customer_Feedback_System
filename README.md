@@ -2,6 +2,21 @@
 
 A full-stack customer feedback system built with React, Node.js, Express, and MongoDB. Users can submit feedback, product reviews, and NPS surveys, while admins can view analytics with interactive charts.
 
+## Screenshots  
+
+### Feedback Page  
+<img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/4b82f047-3082-4d73-b1b6-4f9fba109907" />
+
+
+### Dashboard  
+ <img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/e5d08422-6fd9-474c-a373-e57810bc1366" />
+
+
+### Analytics Page  
+
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/37bc0c44-e90d-414d-9d03-38316c81cdc9" />
+
+
 ## Features
 
 ### Frontend (React)
